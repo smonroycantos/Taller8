@@ -15,6 +15,3 @@ int seleccionarOpcion (){
     return x;
 }
 
-void opciones(x){
-
-}
